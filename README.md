@@ -1,7 +1,7 @@
-#因为不化妆，我开了第三期写作探索实验室......
+# 因为不化妆，我开了第三期写作探索实验室......
 来源于：微信公众号：LotusBloomsQuietly
 
-##一. 本色
+## 一. 本色
 
 北京面试第二家公司之前的中午，在海淀黄庄附近的星巴克与老友重聚。聊到一半，十几年未见面的男同学，忽然看着我，斩钉截铁地吐出四个字：你要化妆。
 
@@ -13,7 +13,7 @@
 
 下午面试我依然顶着细纹和色斑上阵。
 
-##二. 循环
+## 二. 循环
 
 当过面试官的朋友说，如果应聘者颜值高，会多聊几句。ta说，面试是非理性决策过程，仅通过面试并不能真正看出一个人的水平。
 
@@ -21,7 +21,7 @@
 
 世界在以各种方式惩罚不踏入这条循环的人。你不见得有我这样的抗压力，所以虽然我不愿踏入那条循环，但也不建议任何人学我。
 
-##三. 幻象
+## 三. 幻象
 
 化妆常让我联想到工地周边树立起来的巨幅广告牌，一面是热闹繁华的广告，一面是寂然荒芜的土地。一面幻象，一面真实。
 
@@ -33,7 +33,7 @@ Cypher: You know, I know this steak doesn’t exist. I know that when I put it i
 Cypher: I don’t want to remember nothing. Nothing. You understand? And I want to be rich. You know, someone important, like an actor.
 赛弗：我不想记得这些（真相），一点儿都不想。你明白吗？我想变有钱，做一个重要人物，比如说明星。
 
-##四. 理解力
+## 四. 理解力
 
 对我来说，比化妆更重要的，是对真实世界的理解力。
 
@@ -47,7 +47,7 @@ Cypher: I don’t want to remember nothing. Nothing. You understand? And I want 
 
 和平年代，中国为什么还要发展核武器？为什么稳定压倒一切？民众的抱怨真的都对吗？为什么很多电影口碑总是那么差，票房总是那么好？为什么开发区的餐馆饭菜那么难吃，生意还那么火爆？如果不了解甲午战争，不了解某某事件，不了解人性，你就无法获得深度的理解。
 
-##五. 交换
+## 五. 交换
 
 我有一个愿望，这个愿望支撑着我持续写作：我希望有生之年，将我对这个世界的所有理解全部写出来，这样才不枉来世界一趟。
 
@@ -69,7 +69,7 @@ Cypher: I don’t want to remember nothing. Nothing. You understand? And I want 
 
 你，如果愿意用你的报名费帮我生存下去，就能帮我以最理想的方式生存下去，获得时间，去写完我对这个世界的所有理解。
 
-##六. 课程
+## 六. 课程
 
 我想开的课程叫“写作探索实验室”。
 
@@ -105,7 +105,7 @@ Cypher: I don’t want to remember nothing. Nothing. You understand? And I want 
 
 如果我对您的课程结果不满意，将退回您50%的报名费；如果您对课程结果不满意（而我觉得达标），将退回25%的报名费。
 
-##七. 报名
+## 七. 报名
 
 综上，想报名的朋友需要给我发送一封邮件，附上以下内容：
 
@@ -131,7 +131,7 @@ Cypher: I don’t want to remember nothing. Nothing. You understand? And I want 
 
 168元21小时写作从0到1突破
 
-##参考资料：
+## 参考资料：
 
 《黑客帝国》第一部台词
 http://blog.sina.com.cn/s/blog_5082b8240106e50o.html
